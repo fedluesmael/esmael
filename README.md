@@ -3,6 +3,6 @@ A repository for my html/css projects
 ## Files
 - 'cc.html': A sample HTML file with css
 ## How to use
-1. Clone this repo:
+1. Clone this repository:
 2. ``` bash
 3. git clone https://github.com/fedluesmael/esmael.git
