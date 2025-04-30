@@ -1,7 +1,9 @@
 # esmael
-A repository for my html/css projects
+HTML/CSS projects repository
+
 ## Files
-- 'cc.html': A sample HTML file with css
+- ['cc.html'](cc,html): Sample HTML file (view raw or download)
+  
 ## How to use
 1. Clone this repository:
 2. ``` bash
