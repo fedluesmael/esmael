@@ -2,7 +2,7 @@
 HTML/CSS projects repository
 
 ## Files
-- ['cc.html'](cc,html): Sample HTML file (view raw or download)
+- ['index.html'](index,html): Sample HTML file (view raw or download)
   
 ## How to use
 1. Clone this repository:
